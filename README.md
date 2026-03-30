@@ -2,12 +2,12 @@
 📡 Intercept Facebook network traffic on iOS/iPad OS device.
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **550.0.0.34.65**
+- App version: **554.0.0.38.78**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Burp Suite](https://portswigger.net/burp), [HTTP Toolkit](https://httptoolkit.com/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
 
 ## 🎥 Evidence
-![Facebook iOS](assets/v550.jpg)
+![Facebook iOS](assets/v554.jpg)
 
 ## ✅ Other Apps
 1. [Facebook Android](https://github.com/shajon-dev/Facebook-SSL-Pinning-Bypass)
@@ -35,7 +35,7 @@
   <tbody>
     <tr>
       <td rowspan="2" align="center"><code>com.facebook.Facebook</code></td>
-      <td align="center">550.0.0.34.65</td>
+      <td align="center">554.0.0.38.78</td>
       <td align="center">✅ Bypassed</td>
       <td align="center"><a href="https://t.me/DarknessKing999">Contact Telegram</a></td>
     </tr>
