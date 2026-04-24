@@ -2,12 +2,12 @@
 📡 Intercept Facebook network traffic on iOS/iPad OS device.
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **555.0.0.36.63**
-- Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Burp Suite](https://portswigger.net/burp), [HTTP Toolkit](https://httptoolkit.com/), [Reqable](https://reqable.com/).
+- App version: **558.0.0.58.74**
+- Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
 
 ## 🎥 Evidence
-![Facebook iOS](assets/v555.jpg)
+![Facebook iOS](assets/v558.jpg)
 
 ## ✅ Other Apps
 1. [Facebook Android](https://github.com/shajon-dev/Facebook-SSL-Pinning-Bypass)
@@ -35,7 +35,7 @@
   <tbody>
     <tr>
       <td rowspan="2" align="center"><code>com.facebook.Facebook</code></td>
-      <td align="center">555.0.0.36.63</td>
+      <td align="center">558.0.0.58.74</td>
       <td align="center">✅ Bypassed</td>
       <td align="center"><a href="https://t.me/DarknessKing999">Contact Telegram</a></td>
     </tr>
@@ -60,7 +60,7 @@ If this project helped you, consider buying me a coffee! ❤️
 
 ## 📱 Requirements
 1. 🔓 iPhone / iPad [No need jailbroken device]
-2. 🔄 Tools for traffic capture: [Mitmproxy](https://mitmproxy.org/), [Burp Suite](https://portswigger.net/burp), [HTTP Toolkit](https://httptoolkit.com/), [Reqable](https://reqable.com/).
+2. 🔄 Tools for traffic capture: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 
 ## 🔧 Setup Process
  1. 🔄 **Install Modified IPA** via [Feather](https://github.com/CLARATION/Feather) or [Ksign](https://github.com/Nyasami/Ksign).
