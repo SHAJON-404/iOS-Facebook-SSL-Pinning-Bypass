@@ -2,12 +2,12 @@
 📡 Intercept Facebook network traffic on iOS/iPad OS device.
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **569.0.0.55.71**
+- App version: **572.0.0.44.72**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/SHAJON](https://t.me/SHAJON)
 
 ## 🎥 Evidence
-![Facebook iOS](assets/v569.jpg)
+![Facebook iOS](assets/v572.jpg)
 
 ## ✅ Other Apps
 1. [Facebook Android](https://github.com/shajon-dev/Facebook-SSL-Pinning-Bypass)
@@ -18,6 +18,8 @@
 6. [Threads Android](https://github.com/shajon-dev/Threads-SSL-Pinning-Bypass)
 7. [Threads iOS](https://github.com/shajon-dev/iOS-Threads-SSL-Pinning-Bypass)
 8. [Business Suite Android](https://github.com/shajon-dev/Meta-Business-Suit-SSL-Pinning-Bypass)
+9. [Business Suite iOS](https://github.com/shajon-dev/iOS-Meta-Business-Suit-SSL-Pinning-Bypass)
+10. [TikTok iOS](https://github.com/shajon-dev/iOS-TikTok-SSL-Pinning-Bypass)
 
 ## 📦 For Demo - Download Modified IPA
   - For any issues, contact me on Telegram. Read README.md carefully before use.
@@ -35,7 +37,7 @@
   <tbody>
     <tr>
       <td rowspan="2" align="center"><code>com.facebook.Facebook</code></td>
-      <td align="center">569.0.0.55.71</td>
+      <td align="center">572.0.0.44.72</td>
       <td align="center">✅ Bypassed</td>
       <td align="center"><a href="https://t.me/SHAJON">Contact Telegram</a></td>
     </tr>
