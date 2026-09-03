@@ -10,14 +10,14 @@
 ---
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **575.0.0.30.70**
+- App version: **577.0.0.57.74**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/SHAJON](https://t.me/SHAJON)
 
 ---
 
 ## 🎥 Evidence
-![Facebook iOS](assets/v575.jpg)
+![Facebook iOS](assets/v577.jpg)
 
 ---
 
@@ -53,7 +53,7 @@
   <tbody>
     <tr>
       <td rowspan="3" align="center"><code>com.facebook.Facebook</code></td>
-      <td align="center">575.0.0.30.70</td>
+      <td align="center">577.0.0.57.74</td>
       <td align="center">✅ Bypassed</td>
       <td align="center">✅ Yes</td>
       <td align="center"><a href="https://t.me/SHAJON">Contact Telegram</a></td>
